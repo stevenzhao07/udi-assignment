@@ -63,7 +63,7 @@ python scripts/udi_assign.py --demo
 
 ## 关联模块
 
-- [fhir-ortho-toolkit](https://github.com/stevenzhao07/fhir-ortho-toolkit)
+- fhir-ortho-toolkit（未建仓·计划中）
 - [multilingual-ifu](https://github.com/stevenzhao07/multilingual-ifu)
 - [device-regulatory-map](https://github.com/stevenzhao07/device-regulatory-map)
 
